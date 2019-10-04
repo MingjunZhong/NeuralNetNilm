@@ -8,5 +8,7 @@ We introduced two frameworks for NILM using neural networks in our AAAI-18 paper
 
 A better code can be found at https://github.com/MingjunZhong/transferNILM
 
+Any questions please drop me an email at mzhong@lincoln.ac.uk
+
 Reference:
 [1] Chaoyun Zhang, Mingjun Zhong, Zongzuo Wang, Nigel Goddard, and Charles Sutton. ``Sequence-to-point learning with neural networks for nonintrusive load monitoring.’’ Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18), Feb. 2-7, 2018.
