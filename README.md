@@ -6,7 +6,7 @@ We introduced two frameworks for NILM using neural networks in our AAAI-18 paper
 
 2. sequence-to-point (seq2point) model, where the input is the mains windows (599 timepoints in the paper) and output is the midpoint of the corresponding appliance windows (a single point).
 
-A better code can be found at https://github.com/MingjunZhong/transferNILM
+A more refined code can be found at https://github.com/MingjunZhong/transferNILM, where you could also get preprocessed data.
 
 Any questions please drop me an email at mzhong@lincoln.ac.uk
 
