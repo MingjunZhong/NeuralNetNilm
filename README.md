@@ -8,7 +8,13 @@ We introduced two frameworks for NILM using neural networks in our AAAI-18 paper
 
 A more refined code can be found at https://github.com/MingjunZhong/transferNILM, where you could also get preprocessed data.
 
+Seq2seq & seq2point learning are also implemented in nilmtk-contrib [2], which is available at https://github.com/nilmtk/nilmtk-contrib
+
 Any questions please drop me an email at mzhong@lincoln.ac.uk
 
 Reference:
+
 [1] Chaoyun Zhang, Mingjun Zhong, Zongzuo Wang, Nigel Goddard, and Charles Sutton. ``Sequence-to-point learning with neural networks for nonintrusive load monitoring.’’ Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18), Feb. 2-7, 2018.
+
+[2] Nipun Batra, Rithwik Kukunuri, Ayush Pandey, Raktim Malakar, Rajat Kumar, Odysseas Krystalakos, Mingjun Zhong, Paulo Meira, and Oliver
+Parson. 2019. ``Towards reproducible state-of-the-art energy disaggregation''. In The 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’19), November 13–14, 2019, New York, NY, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10. 1145/3360322.3360844
