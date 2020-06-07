@@ -10,8 +10,7 @@ A more refined code can be found at https://github.com/MingjunZhong/transferNILM
 
 Seq2seq & seq2point learning are also implemented in nilmtk-contrib [2], which is available at https://github.com/nilmtk/nilmtk-contrib
 
-Any questions please drop me an email at mzhong@lincoln.ac.uk
-
+Any questions please drop me an email at mingjun.zhong@abdn.ac.uk
 Reference:
 
 [1] Chaoyun Zhang, Mingjun Zhong, Zongzuo Wang, Nigel Goddard, and Charles Sutton. ``Sequence-to-point learning with neural networks for nonintrusive load monitoring.’’ Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18), Feb. 2-7, 2018.
