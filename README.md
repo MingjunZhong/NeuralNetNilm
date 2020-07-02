@@ -1,5 +1,7 @@
 # Sequence-to-point learning for non-intrusive load monitoring (energy disaggregation)
 
+##Note: the latest code using TensorFlow-2.0 can be found here https://github.com/MingjunZhong/seq2point-nilm ##
+
 We introduced two frameworks for NILM using neural networks in our AAAI-18 paper [1], which are
 
 1. sequence-to-sequence (seq2seq) model, where both the input (mains) and output (appliance) of the networks are windows. (In the paper, we set the window length to have 599 timepoints which is equivalent to 599*7=4193 seconds.)
