@@ -1,6 +1,6 @@
 # Sequence-to-point learning for non-intrusive load monitoring (energy disaggregation)
 
-##Note: the latest code using TensorFlow-2.0 can be found here https://github.com/MingjunZhong/seq2point-nilm ##
+## Note: the latest code using TensorFlow-2.0 can be found here https://github.com/MingjunZhong/seq2point-nilm ##
 
 We introduced two frameworks for NILM using neural networks in our AAAI-18 paper [1], which are
 
